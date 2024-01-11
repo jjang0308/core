@@ -14,7 +14,6 @@ public class HelloLombok {
     public static void main(String[] args) {
         HelloLombok helloLombok = new HelloLombok();
         helloLombok.setName("안녕 나는 롬복");
-
         System.out.println("helloLombok = " + helloLombok);
     }
 }
